@@ -21,7 +21,7 @@ $.ajax({
 //        html+="</ul>";
 //        //console.log("here11");
 //        document.getElementById("categories").innerHTML = html;
-//        //console.log("here12")
+//        //console.log("here12");
        /*
        var html="<ul><div>";
           for(var i = 0; i < OrdersArray.length; i++) {
